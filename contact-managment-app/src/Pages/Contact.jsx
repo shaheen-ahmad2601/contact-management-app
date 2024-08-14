@@ -14,12 +14,8 @@ const Contacts = () => {
     const dispatch = useDispatch()
 
     const togglePopup = (contact) => {
-
         setSingleContact(contact)
-
         setIsOpen(!isOpen)
-
-
     }
     useEffect(() => {
 

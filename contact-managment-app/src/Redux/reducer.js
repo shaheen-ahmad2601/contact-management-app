@@ -1,4 +1,3 @@
-// reducer.js
 import { ADD_CONTACT, EDIT_CONTACT, REMOVE_CONTACT } from './actionTypes';
 
 const initialState = {

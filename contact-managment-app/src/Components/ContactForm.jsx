@@ -143,7 +143,7 @@ function ContactForm() {
   return (
     <div className="w-1/2 mx-auto my-4 pt-16">
       <h2 className="text-2xl text-white font-bold mb-4">
-        <button className="rounded-full shadow shadow-slate-700 font-bold bg-slate-700 p-3 text-2xl">
+        <button className=" shadow shadow-slate-700 font-bold bg-slate-700 p-3 text-2xl">
           Create Contact
         </button>
       </h2>
